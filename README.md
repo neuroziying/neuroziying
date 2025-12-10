@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Ziying 👋
+Undergraduate physics major at USTC (Class of 2026), passionate about computational neuroscience and brain–computer interfaces.
+
+- 🧠 **Research interests:** neural dynamics, nonlinear systems, imaging, behavior decoding, and biophysics  
+- 🔬 **Currently working on:** nonlinear oscillators, fiber-based microscopy, large-scale calcium imaging analysis, neural activity decoding, and behavioral analysis  
+- 💻 **Skills:** C, Python, MATLAB, machine learning, statistics, scientific computing  
+- 📚 **Learning:** computer vision, data science, biophysics  
+- 🌱 Always exploring new ideas in neuroscience  
+- 💬 I share my ideas, notes, and code here — feel free to reach out and discuss!
+
 
 <!--
 **neuroziying/neuroziying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
